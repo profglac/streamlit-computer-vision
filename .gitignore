@@ -1,0 +1,9 @@
+# Ignorar arquivos .env
+.env
+
+# Ignorar outras pastas/arquivos sensíveis
+*.pyc
+__pycache__/
+.idea/
+.vscode/
+construcao_civil_2.jpg
