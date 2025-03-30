@@ -6,4 +6,6 @@
 __pycache__/
 .idea/
 .vscode/
+
+# Ignorar imagem específica
 construcao_civil_2.jpg
